@@ -1,0 +1,8 @@
+# Private report examples. Keep public skill guidance in reports/guides/.
+references/
+ereferences/
+
+# Temporary files produced while preparing reports.
+~$*.docx
+__pycache__/
+*.py[cod]
